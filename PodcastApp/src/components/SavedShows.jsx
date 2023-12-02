@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { MdChevronLeft, MdChevronRight } from 'react-icons/md';
-import { UserAuth } from '../context/AuthContext';
-import { db } from '../firebase';
-import { updateDoc, doc, onSnapshot } from 'firebase/firestore';
+//import { MdChevronLeft, MdChevronRight } from 'react-icons/md';
+//import { UserAuth } from '../context/AuthContext';
+//import { db } from '../firebase';
+//import { updateDoc, doc, onSnapshot } from 'firebase/firestore';
 import { AiOutlineClose } from 'react-icons/ai';
 
 const SavedShows = () => {
